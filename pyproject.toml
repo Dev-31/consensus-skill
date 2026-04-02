@@ -1,0 +1,11 @@
+[project]
+name = "consensus-skill"
+version = "0.1.0"
+description = "Research topics and analyze consensus vs conflict"
+dependencies = [
+    "duckduckgo-search",
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"

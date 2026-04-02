@@ -1,0 +1,2 @@
+duckduckgo-search>=5.0.0
+pytest>=8.0.0
